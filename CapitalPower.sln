@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapitalPower", "CapitalPower\CapitalPower.csproj", "{68D700A4-743E-4E44-8C7F-AF11A1999C81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68D700A4-743E-4E44-8C7F-AF11A1999C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D700A4-743E-4E44-8C7F-AF11A1999C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D700A4-743E-4E44-8C7F-AF11A1999C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D700A4-743E-4E44-8C7F-AF11A1999C81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {823DC895-50C0-4DAF-AF04-7107BD5C3636}
+	EndGlobalSection
+EndGlobal
